@@ -24,7 +24,7 @@ export default {
 
     default: jsLexer,
   },
-  locales: ['en', 'de', 'zh_TW', 'zh_CN'],
+  locales: ['rus','en', 'de', 'zh_TW', 'zh_CN'],
   namespaceSeparator: false,
   output: 'public/locales/gsa-$LOCALE.json',
   pluralSeparator: false,
